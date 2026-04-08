@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Vaibhav Bhardwaj</h1>
 <h3 align="center">Backend Engineer | Full Stack Developer | Cloud and Distributed Systems</h3>
-<h6 align="center">bhardwajvaibhav0210@gmail.com</h6>
-
 
 <p align="center">
   I build secure, scalable, and production focused applications with strong interest in backend systems, cloud infrastructure, API design, and distributed architectures.
