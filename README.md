@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
+  •
   <a href="https://www.linkedin.com/in/vaibhavbhardwaj2810/">LinkedIn</a>
   •
   <a href="https://github.com/VaibhavXBhardwaj">GitHub</a>
-  •
+  
 </p>
 
 ---
