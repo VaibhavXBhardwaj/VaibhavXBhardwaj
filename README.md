@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vaibhavbhardwaj2810/">LinkedIn</a>
   •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+  <a href="https://github.com/VaibhavXBhardwaj">GitHub</a>
   •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a>
+  
   •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="bhardwajvaibhav0210@gmail.com">Email</a>
 </p>
 
 ---
