@@ -10,8 +10,6 @@
   •
   <a href="https://github.com/VaibhavXBhardwaj">GitHub</a>
   •
-  
-  •
   <a href="bhardwajvaibhav0210@gmail.com">Email</a>
 </p>
 
